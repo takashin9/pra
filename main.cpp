@@ -2,8 +2,8 @@
 using namespace std;
 
 int add(int a, int b) {
-    if (a < 0) exit(1);
-    if (b < 0) exit(1);
+    if (a < 0) exit(0);
+    if (b < 0) exit(0);
     return a + b;
 }
 

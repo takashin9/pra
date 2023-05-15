@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    cout <<
+    cout << "hello maximum" << endl;
     
 }
